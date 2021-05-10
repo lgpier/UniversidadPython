@@ -6,6 +6,7 @@ class Persona:
     #Obtener
     def getNombre(self):
         return self.__nombre
+    
     #definir
     def setNombre(self,nombre):
         self.__nombre = nombre
